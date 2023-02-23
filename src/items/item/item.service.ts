@@ -17,6 +17,34 @@ export class ItemService {
             id: "item3",
             name: "Poca",
             description: "Poca is a snack",
+        },{
+            id: "item4",
+            name: "Lays",
+            description: "Lays is a snack",
+        },{
+            id: "item5",
+            name: "Bourbon",
+            description: "Bourbon is wine",
+        },{
+            id: "item6",
+            name: "Mentos",
+            description: "Mentos is a candy",
+        },{
+            id: "item7",
+            name: "Lego 3 in 1",
+            description: "Lego is a toy",
+        },{
+            id: "item8",
+            name: "MSI",
+            description: "MSI is a laptop manufacturer",
+        },{
+            id: "item9",
+            name: "Apple",
+            description: "Apple is a fruit",
+        },{
+            id: "item10",
+            name: "Coroba",
+            description: "Coroba is a guitar manufacturer",
         }
     ];
 
